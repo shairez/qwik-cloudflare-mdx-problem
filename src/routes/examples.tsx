@@ -1,3 +1,4 @@
+/* eslint-disable qwik/no-react-props */
 import { component$, Slot } from '@builder.io/qwik';
 import { Accordion, AccordionItem, Checkbox } from '@qwik-ui/headless';
 import { PreviewCodeExample } from '../components/preview-code-example/preview-code-example';
